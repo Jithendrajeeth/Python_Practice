@@ -4,4 +4,4 @@ if s == s[::-1]:
     print("Yes")
 else:
     print("No")
-print("Bitbucket_code 3")
+print("Bitbucket_code 4")

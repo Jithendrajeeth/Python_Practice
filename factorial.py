@@ -1,5 +1,5 @@
-def fact(n):
-    return 1 if (n == 1 or n == 0) else n * fact(n - 1)
-
-num = 5
-print(fact(num))
+n= 4
+x=1
+for i in range(1,n+1):
+    x*=i
+print(x)
